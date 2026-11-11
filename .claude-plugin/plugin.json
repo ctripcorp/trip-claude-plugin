@@ -1,0 +1,10 @@
+{
+  "name": "trip-flight-search",
+  "version": "1.0.0",
+  "description": "Search and compare Trip.com flights for fixed or flexible travel dates.",
+  "author": {
+    "name": "Trip.com"
+  },
+  "homepage": "https://www.trip.com",
+  "license": "UNLICENSED"
+}
