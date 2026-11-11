@@ -28,4 +28,4 @@ This repository is initially maintained on company GitLab. Anthropic currently r
 
 ## License
 
-UNLICENSED, matching the source service project. No open-source license is granted by this package. The owner must confirm distribution terms before public release.
+This plugin package is licensed under the [MIT License](LICENSE). This license applies to the files in this repository; it does not license the separately operated Trip.com service or its source code.
