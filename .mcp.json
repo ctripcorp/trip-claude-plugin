@@ -2,7 +2,7 @@
   "mcpServers": {
     "trip-flight": {
       "type": "http",
-      "url": "https://fly.trip.com/flight/mcp"
+      "url": "https://fly.trip.com/flight/mcp/claude"
     }
   }
 }

@@ -4,7 +4,7 @@ Search and compare Trip.com flights in Claude using an existing remote MCP serve
 
 ## Setup
 
-The configured remote MCP endpoint is `https://fly.trip.com/flight/mcp`, supplied by the service owner. This plugin uses only its flight tools. Verify connectivity and the exposed tool registry before directory submission.
+The configured remote MCP endpoint is `https://fly.trip.com/flight/mcp/claude`, supplied by the service owner. This plugin uses only its flight tools. Verify connectivity and the exposed tool registry before directory submission.
 
 In Claude chat and Cowork, connect the declared server in the plugin Connectors tab. In Claude Code, load this folder with `claude --plugin-dir /absolute/path/to/trip-flight-claude-plugin`.
 
