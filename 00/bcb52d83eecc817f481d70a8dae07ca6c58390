@@ -1,0 +1,21 @@
+.claude-plugin/plugin.json
+  s_764030dba593a1::t_8f18e4b2fd0654 1-10
+skills/flight-search/SKILL.md
+  s_764030dba593a1::t_6f58b567239239 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "00bcb52d83eecc817f481d70a8dae07ca6c58390",
+  "prompts": {},
+  "sessions": {
+    "s_764030dba593a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c526-85e2-7952-b830-3bb654b4c00e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "gongkq <gongkq@trip.com>"
+    }
+  }
+}
