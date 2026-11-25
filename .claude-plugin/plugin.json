@@ -8,7 +8,16 @@
     "url": "https://www.trip.com"
   },
   "homepage": "https://www.trip.com",
+  "repository": "https://github.com/ctripcorp/trip-claude-plugin",
+  "documentationUrl": "https://www.trip.com/mcp/connector/claude.html",
+  "supportUrl": "https://www.trip.com/pages/support",
   "privacyPolicyUrl": "https://www.trip.com/contents/service-guideline/privacy-policy.html",
-  "icon": ".claude-plugin/icon.png",
-  "license": "MIT"
+  "termsOfServiceUrl": "https://www.trip.com/contents/service-guideline/terms.html",
+  "icon": "./.claude-plugin/icon.png",
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "flights",
+    "flight-search"
+  ]
 }
